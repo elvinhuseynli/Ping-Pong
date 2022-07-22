@@ -1,6 +1,3 @@
-"""
-Created by Zeynep ÖZDEMİR, ÖZGE MERCANOĞLU SİNCAN
-"""
 from graphics import *
 import random
 from math import *
